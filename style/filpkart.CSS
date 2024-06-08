@@ -1,0 +1,10 @@
+.contain{
+  display: flex;
+  background-color: black;
+}
+p.hover{
+    color: aqua;
+}
+.contain{
+  color: aquamarine;
+}

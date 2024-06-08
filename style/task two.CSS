@@ -1,0 +1,9 @@
+div{
+    width: 25px;
+    background-color: azure;
+    display: inline;
+}
+.Contain {
+    display:flex
+    padding-left: 250px
+}

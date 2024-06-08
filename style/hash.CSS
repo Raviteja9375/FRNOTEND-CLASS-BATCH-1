@@ -1,0 +1,8 @@
+div{
+ color: aqua;
+ border: 2px aqua solid;
+}
+.contain{
+    display: flex;
+    border: 4px red solid;
+}

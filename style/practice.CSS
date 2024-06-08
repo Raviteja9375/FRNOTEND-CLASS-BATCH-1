@@ -1,0 +1,11 @@
+div{
+  color: black;
+  border: 2px black solid; 
+}
+.Contain{
+    display: flex;
+    border:3px red solid;
+}
+p:hover{
+    color: blueviolet;
+}

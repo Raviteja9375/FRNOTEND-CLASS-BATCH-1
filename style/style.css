@@ -1,0 +1,51 @@
+body {
+    background:rgb(104, 103, 103);
+}
+
+.heading{
+    color:chocolate;
+}
+
+p{
+    color:burlywood;
+}
+
+#insta-profile{
+    background-color: cornflowerblue;
+}
+
+input[type]{
+    background: red;
+}
+
+a[herf]{
+    color: aqua;
+}
+
+p.className {
+    color: red;
+}
+
+* {
+    border: 1px solid grey;
+}
+
+/* .number-section{
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: auto;
+   }
+
+   .about-hash-number-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4% 0;
+   } */
+
+
+   .hashinclude-stats {
+    display: flex;
+    background-color:blueviolet;
+    justify-content: space-evenly;
+    text-align: center;
+   }
