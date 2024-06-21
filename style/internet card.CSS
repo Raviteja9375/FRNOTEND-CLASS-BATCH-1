@@ -1,0 +1,49 @@
+/*this section is started*/
+div{
+  width: auto;
+  /* background-color: aqua; */
+  display: flex;
+  padding-left: 239px;
+  padding-left: 55px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  margin-right: 45px;
+  justify-content: space-around;
+  transform: translate(10px, 10px);
+  position: relative;
+}
+.class{
+    margin: 45px;
+    padding-left: 85px;
+    color: black;
+}
+/*this section is ended*/
+
+/* this section is started */
+.main-block{
+  /* background-color: beige; */
+  border-radius: 10px;
+}
+/*this section is ended*/
+
+/* this section is started */
+h3.banner-text {
+  font-size: 25px;
+}
+span.text-bold-text-blue {
+  font-size: 55px;
+}
+.text-green {
+  color: rgb(11, 102, 11);
+  display: flex;
+}
+  p class="banner-sub-text text green{
+    font-size: 60px;
+}
+div class="card-start-inner-container"{
+
+}
+/*this section is ended*/
+
+/* this section is started */

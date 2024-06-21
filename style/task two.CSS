@@ -5,5 +5,8 @@ div{
 }
 .Contain {
     display:flex
-    padding-left: 250px
+    padding-left: 25px
 }
+.content {
+    margin-left:650px;
+    }
